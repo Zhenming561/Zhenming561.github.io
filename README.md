@@ -2,12 +2,12 @@
 
 ---
 
-## 👨‍🔬 About Me
-I am a student passionate about **Condensed Matter Physics** and **Statistical Mechanics**. Currently, I am focusing on the preliminary study of **Topological Phases** and **Anyon Physics**. This page is mainly to present and manage the output of my personal study like **[Notes](#academic--notes)**, **Projects(#research--practical--coursework)**.
+## About Me
+I am a student passionate about **Condensed Matter Physics** and **Statistical Mechanics**. Currently, I am focusing on the preliminary study of **Topological Phases** and **Anyon Physics**. This page is mainly to present and manage the output of my personal study like **[Notes](#academic--notes)**, **[Projects](#research-practical-coursework)**.
 
 ---
 
-## 🚀 Research Practical Coursework
+## Research Practical Coursework
 *A Comprehensive Record of Basic Scientific Training and Methodological Practice in Theoretical Physics.*
 
 ### 1. [ Majorana Modes in the Machine – Simulating Topological Phases with Quantum Circuits and AI](https://github.com/edhar98/majorana-modes-machine)
@@ -26,7 +26,7 @@ I am a student passionate about **Condensed Matter Physics** and **Statistical M
 * **Grading**: 1.0 / 1.0
 ---
 
-## 📚 Academic Notes
+## Academic Notes
 *In-depth notes and reports that showcase my theoretical foundation.*
 
 ### 1. [Advanced Statistical Physics](https://github.com/Zhenming561/adv_statphy)
