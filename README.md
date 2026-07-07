@@ -12,30 +12,34 @@ I am a student passionate about **Condensed Matter Physics** and **Statistical M
 
 ### 1. [ Majorana Modes in the Machine – Simulating Topological Phases with Quantum Circuits and AI](https://github.com/edhar98/majorana-modes-machine)
 * **Supervisor**: MSc. Yves Rottstaedt, Prof. Bernd Rosenow.
-* **Objective**: .
 * **Key Contributions**:
     * Implemented numerical simulations of the **Tight-Binding Model** and generated bulk dispersions.
     * Analyzed **Majorana Splitting** and finite-size effects in nanowires.
+    * Gate errors coupling with circuit.
 * **Tech Stack**: `Python`.
 
-### 2. Anyons in the Exact Solvable Model.
+### 2. [Kitaev Honeycomb Model](https://github.com/Zhenming561/Kitaev_Models )
 * **Supervisor**: Prof. Inti Sodemann
 
 ### 3. ADM Conserved Auantities and Covariant Phase Space Approach.
 * **Supervisor**: Prof. Stefan Hollands
+* **Key Contributions**:Developed the covariant phase-space formulation of ADM conserved quantities and the first law
+of black-hole thermodynamics for general diffeomorphism-invariant and higher-curvature gravity, where
+charges and entropy arise as Noether charges. Derived the symplectic potential and Noether charge; extended
+the analysis to f (R) gravity and computed Wald-entropy corrections.
 * **Grading**: 1.0 / 1.0
 ---
 
 ## Academic Notes
-*In-depth notes and reports that showcase my theoretical foundation.*
+*In-depth notes that showcase my theoretical foundation.*
 
 ### 1. [Advanced Statistical Physics](https://github.com/Zhenming561/adv_statphy)
-* **Topic**: Critical phenomena, Renormalization Group (RG), and Non-equilibrium systems.
+* **Topic**: Critical phenomena, Renormalization Group (RG).
 * **Outputs**:
     * **Numerical Training**: Coded the **1D Ising Chain Model** and **Heisenberg Layer Model**.
 * **Resource**: 
 
-### 2. [Quantum Mechanics(from basics to Berry phase)]
+### 2. [Quantum Mechanics]
 * **Focus**: [e.g.,].
 * **Description**:These notes are almost entirely self-organized. Regarding the advanced topics, I primarily follow the structure of the graduate course taught by Prof. Bernd Rosenow at Leipzig University (Winter Semester 25/26). This collection includes extensive proofs, detailed derivations, and explanations of specific subjects that are often omitted in standard textbooks. Please note that this is a living document of my study journey. It likely contains typos and preliminary understandings that I am continuously refining. I encourage readers to consult standard textbooks for definitive references.
 ---
